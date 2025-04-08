@@ -1,2 +1,3 @@
-test_id,product,instrument_id,table_data,timestamp,tstart,tstop,ibp,fbp,t50,test_duration,avg_ibp,std_ibp,avg_fbp,std_fbp,avg_t50,std_t50,avg_test_duration,std_test_duration
-588da9a3237fc504468c0c7bdf9656da7f31500946b6f85c71a9475f416bd329,193644-1AAA,942706ef-836a-4464-bc76-74aa97b76f8b,[],2024-09-10 11:32:05+00,2024-09-10 11:32:05+00:00,2024-09-10 12:09:32+00:00,,,,37.45,,,,,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4666be42d97010f4de2acd9eefe3d7cc74fb3206221599eaaba0bdf26bde2a
+size 385

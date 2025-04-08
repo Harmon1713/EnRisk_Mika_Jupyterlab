@@ -1,2 +1,3 @@
-instrument_id,test_id,ibp,fbp,product
-0aa8fd0d-019e-422b-bcfb-6f0803909220,1c7408d1491c6d29ac8bc63b096d96e0e88ecf6a581adef9f481b14770067f24,30.921,147.205,GASOLINE G1+G2 TEST
+version https://git-lfs.github.com/spec/v1
+oid sha256:b645bd4d18af89d89d741c705db49aa55b310c7f5f5070e6632886774476427d
+size 177

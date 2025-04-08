@@ -1,2 +1,3 @@
-test_id,product,instrument_id,table_data,timestamp,tstart,tstop,ibp,fbp,t50,test_duration,avg_ibp,std_ibp,avg_fbp,std_fbp,avg_t50,std_t50,avg_test_duration,std_test_duration
-94e04d9571528ccaf60f7bca1784ae56a46107b17fd76a7c79c7594e4c5c20a8,192246-12x,d9680145-4a1f-48a8-9ad3-52e904efc45e,"[{""percent"":""IBP"",""DistRate"":""6 min 28 sec"",""LiqTemp"":""3292.000"",""HeatTemp"":""-"",""VapTemp"":""2147483.648"",""VapTempAdjusted"":""2147483.648"",""VapTempCorrected"":""-"",""VapTempEvaporated"":""-"",""time"":1722870040999},{""percent"":""FBP"",""DistRate"":""6 min 56 sec"",""LiqTemp"":""3292.000"",""HeatTemp"":""-"",""VapTemp"":""2147483.648"",""VapTempAdjusted"":""2147483.648"",""VapTempCorrected"":""-"",""VapTempEvaporated"":""-"",""time"":1722870041000}]",2024-08-05 15:00:40+00,2024-08-05 15:00:40+00:00,2024-08-05 15:15:41+00:00,,,,15.016666666666667,,,,,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:0611133d474d7d9ff9e816aec32b3c8e746dbbe8cc0d22f03ca33ecb18dbd157
+size 874
