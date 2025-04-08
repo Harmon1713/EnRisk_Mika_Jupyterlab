@@ -1,0 +1,2 @@
+test_id,product,instrument_id,table_data,timestamp,tstart,tstop,ibp,fbp,t50,test_duration,avg_ibp,std_ibp,avg_fbp,std_fbp,avg_t50,std_t50,avg_test_duration,std_test_duration
+3533f8f74c41a77c3b431937839b2eded5aa5cf9293cf4d1b603321a383ed826,Jet D1655-DefStan91,d9680145-4a1f-48a8-9ad3-52e904efc45e,[],2024-09-09 18:33:50+00,2024-09-09 18:33:50+00:00,2024-09-09 19:07:33+00:00,,,,33.71666666666667,,,,,,,,

@@ -1,0 +1,101 @@
+instrument_type,short_id,type,total_errors,error_category,count,percent
+OptiCPP,CPP01,Critical,17,Power Supply Issue,17,100.0
+OptiCPP,CPP01,Total,17,Power Supply Issue,17,100.0
+OptiCPP,CPP02,Critical,5,Power Supply Issue,3,60.0
+OptiCPP,CPP02,Total,5,Power Supply Issue,3,60.0
+OptiCPP,CPP03,Critical,4,Power Supply Issue,2,50.0
+OptiCPP,CPP03,Total,4,Power Supply Issue,2,50.0
+OptiDist,OD01,Critical,8092,Process Issue,2674,33.04
+OptiDist,OD01,Non-Critical,7122,Unknown Issue,2326,32.66
+OptiDist,OD01,Total,15214,Heating System Issue,3788,24.9
+OptiDist,OD02,Critical,4823,Process Issue,1747,36.22
+OptiDist,OD02,Non-Critical,3969,Unknown Issue,1375,34.64
+OptiDist,OD02,Total,8792,Heating System Issue,2182,24.82
+OptiDist,OD03,Critical,3390,Process Issue,1176,34.69
+OptiDist,OD03,Non-Critical,2924,Unknown Issue,927,31.7
+OptiDist,OD03,Total,6314,Heating System Issue,1432,22.68
+OptiDist,OD04,Critical,1880,Heating System Issue,567,30.16
+OptiDist,OD04,Non-Critical,1796,Unknown Issue,695,38.7
+OptiDist,OD04,Total,3676,Heating System Issue,944,25.68
+OptiDist,OD05,Critical,1340,Process Issue,434,32.39
+OptiDist,OD05,Non-Critical,1292,Unknown Issue,548,42.41
+OptiDist,OD05,Total,2632,Heating System Issue,637,24.2
+OptiDist,OD06,Critical,1051,Process Issue,400,38.06
+OptiDist,OD06,Non-Critical,973,Unknown Issue,456,46.87
+OptiDist,OD06,Total,2024,Unknown Issue,456,22.53
+OptiDist,OD07,Critical,693,Process Issue,287,41.41
+OptiDist,OD07,Non-Critical,652,Unknown Issue,309,47.39
+OptiDist,OD07,Total,1345,Unknown Issue,309,22.97
+OptiDist,OD08,Critical,643,Process Issue,254,39.5
+OptiDist,OD08,Non-Critical,664,Unknown Issue,333,50.15
+OptiDist,OD08,Total,1307,Unknown Issue,333,25.48
+OptiDist,OD09,Critical,524,Process Issue,228,43.51
+OptiDist,OD09,Non-Critical,462,Unknown Issue,219,47.4
+OptiDist,OD09,Total,986,Process Issue,229,23.23
+OptiDist,OD10,Critical,510,Process Issue,234,45.88
+OptiDist,OD10,Non-Critical,462,Unknown Issue,232,50.22
+OptiDist,OD10,Total,972,Process Issue,234,24.07
+OptiDist,OD11,Critical,545,Process Issue,191,35.05
+OptiDist,OD11,Non-Critical,220,Calibration Issue,73,33.18
+OptiDist,OD11,Total,765,Process Issue,248,32.42
+OptiDist,OD12,Critical,406,Process Issue,140,34.48
+OptiDist,OD12,Non-Critical,164,Calibration Issue,71,43.29
+OptiDist,OD12,Total,570,Process Issue,183,32.11
+OptiDist,OD13,Critical,133,Process Issue,64,48.12
+OptiDist,OD13,Non-Critical,156,Heating System Issue,73,46.79
+OptiDist,OD13,Total,289,Heating System Issue,106,36.68
+OptiDist,OD14,Critical,203,Process Issue,66,32.51
+OptiDist,OD14,Non-Critical,74,Process Issue,33,44.59
+OptiDist,OD14,Total,277,Process Issue,99,35.74
+OptiDist,OD15,Critical,204,Process Issue,89,43.63
+OptiDist,OD15,Non-Critical,64,Process Issue,19,29.69
+OptiDist,OD15,Total,268,Process Issue,108,40.3
+OptiDist,OD16,Critical,124,Process Issue,50,40.32
+OptiDist,OD16,Non-Critical,131,Unknown Issue,64,48.85
+OptiDist,OD16,Total,255,Unknown Issue,64,25.1
+OptiDist,OD17,Critical,107,Process Issue,53,49.53
+OptiDist,OD17,Non-Critical,126,Heating System Issue,70,55.56
+OptiDist,OD17,Total,233,Heating System Issue,98,42.06
+OptiDist,OD18,Critical,81,Process Issue,31,38.27
+OptiDist,OD18,Non-Critical,109,Heating System Issue,55,50.46
+OptiDist,OD18,Total,190,Heating System Issue,83,43.68
+OptiDist,OD19,Critical,63,Process Issue,18,28.57
+OptiDist,OD19,Non-Critical,64,Unknown Issue,24,37.5
+OptiDist,OD19,Total,127,Calibration Issue,30,23.62
+OptiDist,OD20,Critical,30,Process Issue,18,60.0
+OptiDist,OD20,Non-Critical,61,Heating System Issue,39,63.93
+OptiDist,OD20,Total,91,Heating System Issue,46,50.55
+OptiDist,OD21,Critical,4,Process Issue,2,50.0
+OptiDist,OD21,Non-Critical,2,Unknown Issue,2,100.0
+OptiDist,OD21,Total,6,Process Issue,2,33.33
+OptiDist,OD22,Critical,3,Process Issue,2,66.67
+OptiDist,OD22,Non-Critical,2,Calibration Issue,1,50.0
+OptiDist,OD22,Total,5,Heating System Issue,2,40.0
+OptiDist,OD23,Non-Critical,3,Heating System Issue,3,100.0
+OptiDist,OD23,Total,3,Heating System Issue,3,100.0
+OptiFPP,FPP01,Critical,43,Calibration Issue,22,51.16
+OptiFPP,FPP01,Total,43,Calibration Issue,22,51.16
+OptiFlash,OF01,Non-Critical,462,Safety Hazard,370,80.09
+OptiFlash,OF01,Total,462,Safety Hazard,370,80.09
+OptiFlash,OF02,Non-Critical,1,Ignition Test Failire,1,100.0
+OptiFlash,OF02,Total,1,Ignition Test Failire,1,100.0
+OptiFlash,OF03,Non-Critical,17,Ignition Test Failire,11,64.71
+OptiFlash,OF03,Total,17,Ignition Test Failire,11,64.71
+OptiFlash,OF04,Non-Critical,19,Safety Hazard,13,68.42
+OptiFlash,OF04,Total,19,Safety Hazard,13,68.42
+OptiFlash,OF05,Non-Critical,18,Ignition Test Failire,18,100.0
+OptiFlash,OF05,Total,18,Ignition Test Failire,18,100.0
+OptiFlash,OF06,Non-Critical,18,Safety Hazard,12,66.67
+OptiFlash,OF06,Total,18,Safety Hazard,12,66.67
+OptiFlash,OF07,Non-Critical,4,Ignition Test Failire,3,75.0
+OptiFlash,OF07,Total,4,Ignition Test Failire,3,75.0
+OptiFlash,OF09,Non-Critical,10,Ignition Test Failire,6,60.0
+OptiFlash,OF09,Total,10,Ignition Test Failire,6,60.0
+OptiFlash,OF10,Non-Critical,1,Ignition Test Failire,1,100.0
+OptiFlash,OF10,Total,1,Ignition Test Failire,1,100.0
+OptiFlash,OF11,Non-Critical,1,Sensor Issue,1,100.0
+OptiFlash,OF11,Total,1,Sensor Issue,1,100.0
+OptiMPP,MPP01,Critical,45,Hardware Alert,45,100.0
+OptiMPP,MPP01,Total,45,Hardware Alert,45,100.0
+OptiMPP,MPP02,Critical,2,Calibration Issue,1,50.0
+OptiMPP,MPP02,Total,2,Calibration Issue,1,50.0

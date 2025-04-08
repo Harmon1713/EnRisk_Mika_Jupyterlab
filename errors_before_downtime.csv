@@ -1,0 +1,1167 @@
+short_id,downtime_start_week,error_week,error_code,error_message,error_category,prior_error_week,prior_error_code,prior_error_message,prior_error_category
+CPP01,2024-07-15,2024-07-08,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,,,,
+CPP01,2024-07-22,2024-07-15,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-07-08,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP01,2024-07-29,2024-07-15,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-07-08,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP01,2024-08-05,2024-07-15,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-07-08,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP01,2024-08-12,2024-07-15,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-07-08,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP01,2024-08-19,2024-07-15,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-07-08,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP01,2024-08-26,2024-08-19,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-07-15,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-07-01,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-07-08,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-07-15,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-07-22,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-07-29,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-08-05,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-08-12,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-08-19,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-08-26,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-09-02,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-09-09,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-09-16,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP02,2024-11-04,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-11-11,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-11-18,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-11-25,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-12-02,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-12-09,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-12-16,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-12-23,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2024-12-30,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-01-06,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-01-13,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-01-20,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-01-27,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-02-03,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-02-10,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-02-17,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-02-24,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-03-03,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-03-10,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-03-17,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP02,2025-03-24,2024-10-21,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-04-08,2024-04-01,152.0,err=( 152) printer err=( 152),Hardware Alert,,,,
+CPP03,2024-04-15,2024-04-01,152.0,err=( 152) printer err=( 152),Hardware Alert,,,,
+CPP03,2024-04-22,2024-04-01,152.0,err=( 152) printer err=( 152),Hardware Alert,,,,
+CPP03,2024-04-29,2024-04-01,152.0,err=( 152) printer err=( 152),Hardware Alert,,,,
+CPP03,2024-07-01,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-07-08,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-07-15,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-07-22,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-07-29,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-08-05,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-08-12,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-08-19,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-08-26,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-09-02,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue,2024-05-06,148.0,err=( 148) calibration to do err=( 148),Calibration Issue
+CPP03,2024-10-28,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-11-04,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-11-11,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-11-18,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-11-25,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-12-02,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-12-09,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-12-16,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-12-23,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2024-12-30,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-01-06,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-01-13,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-01-20,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-01-27,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-02-03,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-02-10,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-02-17,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-02-24,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-03-03,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-03-10,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-03-17,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+CPP03,2025-03-24,2024-10-21,75.0,err=( 75) ambient temperature err=( 75),Power Supply Issue,2024-05-13,69.0,err=( 69) no head communication err=( 69),Power Supply Issue
+MPP02,2024-06-03,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-06-10,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-06-17,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-06-24,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-07-01,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-07-08,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-07-15,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-07-22,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-07-29,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-08-05,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-08-12,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-08-19,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-08-26,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-09-02,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-09-09,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-09-16,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-09-23,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-09-30,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-10-07,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-10-14,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-10-21,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-10-28,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-11-04,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-11-11,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-11-18,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-11-25,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-12-02,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-12-09,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-12-16,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-12-23,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2024-12-30,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-01-06,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-01-13,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-01-20,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-01-27,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-02-03,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-02-10,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-02-17,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-02-24,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-03-03,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-03-10,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-03-17,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+MPP02,2025-03-24,2024-05-20,148.0,err=( 148) calibration to do err=( 148),Calibration Issue,2024-05-20,71.0,err=( 71) sample temperature err=( 71),Heating System Issue
+OD03,2023-11-13,2023-10-30,39.0,max. heating temp. r,Heating System Issue,2023-10-30,76.0,no error message,Unknown Issue
+OD03,2023-11-20,2023-10-30,39.0,max. heating temp. r,Heating System Issue,2023-10-30,76.0,no error message,Unknown Issue
+OD04,2024-04-22,2024-04-01,22.0,follower1 light barr,Sensor Issue,2024-04-01,21.0,drops per volume,Process Issue
+OD04,2024-05-13,2024-05-06,29.0,door,Door Opened,2024-05-06,76.0,no error message,Unknown Issue
+OD04,2024-05-20,2024-05-13,76.0,no error message,Unknown Issue,2024-05-13,11.0,vapor temperature,Process Issue
+OD04,2024-05-27,2024-05-13,76.0,no error message,Unknown Issue,2024-05-13,11.0,vapor temperature,Process Issue
+OD04,2024-06-03,2024-05-27,39.0,max. heating temp. r,Heating System Issue,2024-05-27,39.0,max. heating temp. r,Heating System Issue
+OD04,2024-06-10,2024-06-03,29.0,door,Door Opened,2024-06-03,39.0,max. heating temp. r,Heating System Issue
+OD04,2024-06-17,2024-06-10,23.0,follower2 light barr,Sensor Issue,2024-06-10,77.0,no error message,Unknown Issue
+OD04,2024-06-24,2024-06-17,29.0,door,Door Opened,2024-06-17,30.0,distillation rate,Calibration Issue
+OD04,2024-07-01,2024-06-24,40.0,max. heat. temp. rea,Heating System Issue,2024-06-24,11.0,vapor temperature,Process Issue
+OD04,2024-07-08,2024-07-01,29.0,door,Door Opened,2024-07-01,76.0,no error message,Unknown Issue
+OD04,2024-07-29,2024-07-15,76.0,no error message,Unknown Issue,2024-07-15,40.0,max. heat. temp. rea,Heating System Issue
+OD04,2024-10-07,2024-09-30,21.0,drops per volume,Process Issue,2024-09-30,39.0,max. heating temp. r,Heating System Issue
+OD04,2024-10-21,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-10-28,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-11-04,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-11-11,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-11-18,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-11-25,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-12-02,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-12-09,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-12-16,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-12-23,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2024-12-30,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-01-06,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-01-13,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-01-20,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-01-27,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-02-03,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-02-10,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-02-24,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-03-03,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-03-10,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-03-17,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD04,2025-03-24,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,29.0,door,Door Opened
+OD05,2024-02-05,2024-01-29,39.0,max. heating temp. r,Heating System Issue,2024-01-29,26.0,initial boiling poin,Calibration Issue
+OD05,2024-03-18,2024-03-11,39.0,max. heating temp. r,Heating System Issue,2024-03-11,21.0,drops per volume,Process Issue
+OD05,2024-05-06,2024-04-08,0.0,fire,Safety Hazard,2024-04-08,30.0,distillation rate,Calibration Issue
+OD05,2024-05-13,2024-04-08,0.0,fire,Safety Hazard,2024-04-08,30.0,distillation rate,Calibration Issue
+OD05,2024-05-20,2024-04-08,0.0,fire,Safety Hazard,2024-04-08,30.0,distillation rate,Calibration Issue
+OD05,2024-05-27,2024-04-08,0.0,fire,Safety Hazard,2024-04-08,30.0,distillation rate,Calibration Issue
+OD05,2024-07-15,2024-07-08,77.0,no error message,Unknown Issue,2024-07-08,11.0,vapor temperature,Process Issue
+OD05,2024-10-07,2024-09-23,26.0,initial boiling poin,Calibration Issue,2024-09-23,21.0,drops per volume,Process Issue
+OD05,2024-10-21,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-10-28,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-11-04,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-11-11,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-11-18,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-11-25,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-12-02,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-12-09,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-12-16,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-12-23,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2024-12-30,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-01-06,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-01-13,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-01-20,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-01-27,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-02-03,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-02-10,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-02-24,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-03-03,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-03-10,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-03-17,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD05,2025-03-24,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,40.0,max. heat. temp. rea,Heating System Issue
+OD06,2024-04-15,2024-04-01,22.0,follower1 light barr,Sensor Issue,2024-04-01,39.0,max. heating temp. r,Heating System Issue
+OD06,2024-04-22,2024-04-01,22.0,follower1 light barr,Sensor Issue,2024-04-01,39.0,max. heating temp. r,Heating System Issue
+OD06,2024-07-22,2024-07-15,21.0,drops per volume,Process Issue,2024-07-15,29.0,door,Door Opened
+OD06,2024-07-29,2024-07-22,26.0,initial boiling poin,Calibration Issue,2024-07-22,77.0,no error message,Unknown Issue
+OD06,2024-10-21,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-10-28,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-11-04,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-11-11,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-11-18,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-11-25,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-12-02,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-12-09,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-12-16,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-12-23,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2024-12-30,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-01-06,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-01-13,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-01-20,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-01-27,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-02-03,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-02-10,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-02-17,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-02-24,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-03-03,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-03-10,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-03-17,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD06,2025-03-24,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,0.0,fire,Safety Hazard
+OD07,2024-09-16,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,76.0,no error message,Unknown Issue
+OD07,2024-10-14,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-10-21,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-10-28,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-11-04,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-11-11,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-11-18,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-11-25,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-12-02,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-12-09,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-12-16,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-12-23,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2024-12-30,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-01-06,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-01-13,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-01-20,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-01-27,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-02-03,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-02-10,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-02-17,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-02-24,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-03-03,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-03-10,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-03-17,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD07,2025-03-24,2024-09-23,77.0,no error message,Unknown Issue,2024-09-23,76.0,no error message,Unknown Issue
+OD08,2024-04-15,2024-04-08,33.0,check the heating bl,Heating System Issue,2024-04-08,29.0,door,Door Opened
+OD08,2024-04-22,2024-04-08,33.0,check the heating bl,Heating System Issue,2024-04-08,29.0,door,Door Opened
+OD08,2024-07-15,2024-07-01,30.0,distillation rate,Calibration Issue,2024-07-01,77.0,no error message,Unknown Issue
+OD08,2024-07-22,2024-07-15,22.0,follower1 light barr,Sensor Issue,2024-07-15,21.0,drops per volume,Process Issue
+OD08,2024-09-30,2024-09-23,10.0,low cooling liquid l,Cooling System Issue,2024-09-23,39.0,max. heating temp. r,Heating System Issue
+OD08,2024-10-07,2024-09-30,21.0,drops per volume,Process Issue,2024-09-30,21.0,drops per volume,Process Issue
+OD08,2024-10-21,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-10-28,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-11-04,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-11-11,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-11-18,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-11-25,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-12-02,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-12-09,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-12-16,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-12-23,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2024-12-30,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-01-06,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-01-13,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-01-20,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-01-27,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-02-03,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-02-10,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-02-24,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-03-03,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-03-10,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-03-17,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD08,2025-03-24,2024-10-07,29.0,door,Door Opened,2024-10-07,21.0,drops per volume,Process Issue
+OD09,2024-05-20,2024-05-13,11.0,vapor temperature,Process Issue,2024-05-13,40.0,max. heat. temp. rea,Heating System Issue
+OD09,2024-10-14,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-10-21,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-10-28,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-11-04,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-11-11,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-11-18,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-11-25,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-12-02,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-12-09,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-12-16,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-12-23,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2024-12-30,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-01-06,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-01-13,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-01-20,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-01-27,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-02-03,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-02-10,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-02-17,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-02-24,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-03-03,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-03-10,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-03-17,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD09,2025-03-24,2024-10-07,76.0,no error message,Unknown Issue,2024-10-07,77.0,no error message,Unknown Issue
+OD10,2023-11-06,2023-10-30,30.0,distillation rate,Calibration Issue,2023-10-30,26.0,initial boiling poin,Calibration Issue
+OD10,2023-11-13,2023-11-06,76.0,no error message,Unknown Issue,2023-11-06,76.0,no error message,Unknown Issue
+OD10,2023-11-20,2023-11-13,11.0,vapor temperature,Process Issue,2023-11-13,26.0,initial boiling poin,Calibration Issue
+OD10,2023-11-27,2023-11-20,0.0,fire,Safety Hazard,2023-11-20,30.0,distillation rate,Calibration Issue
+OD10,2023-12-04,2023-11-27,39.0,max. heating temp. r,Heating System Issue,2023-11-27,23.0,follower2 light barr,Sensor Issue
+OD10,2023-12-11,2023-12-04,22.0,follower1 light barr,Sensor Issue,2023-12-04,29.0,door,Door Opened
+OD10,2023-12-18,2023-12-11,29.0,door,Door Opened,2023-12-11,77.0,no error message,Unknown Issue
+OD10,2023-12-25,2023-12-18,76.0,no error message,Unknown Issue,2023-12-18,30.0,distillation rate,Calibration Issue
+OD10,2024-01-01,2023-12-25,76.0,no error message,Unknown Issue,2023-12-25,77.0,no error message,Unknown Issue
+OD10,2024-01-08,2024-01-01,76.0,no error message,Unknown Issue,2024-01-01,76.0,no error message,Unknown Issue
+OD10,2024-01-15,2024-01-08,26.0,initial boiling poin,Calibration Issue,2024-01-08,34.0,receiver seems not t,Process Issue
+OD10,2024-01-22,2024-01-15,21.0,drops per volume,Process Issue,2024-01-15,39.0,max. heating temp. r,Heating System Issue
+OD10,2024-01-29,2024-01-22,29.0,door,Door Opened,2024-01-22,30.0,distillation rate,Calibration Issue
+OD10,2024-02-05,2024-01-29,26.0,initial boiling poin,Calibration Issue,2024-01-29,71.0,condensertemp out of,Cooling System Issue
+OD10,2024-02-12,2024-02-05,40.0,max. heat. temp. rea,Heating System Issue,2024-02-05,29.0,door,Door Opened
+OD10,2024-02-19,2024-02-12,29.0,door,Door Opened,2024-02-12,76.0,no error message,Unknown Issue
+OD10,2024-02-26,2024-02-19,39.0,max. heating temp. r,Heating System Issue,2024-02-19,0.0,fire,Safety Hazard
+OD10,2024-03-04,2024-02-26,76.0,no error message,Unknown Issue,2024-02-26,0.0,fire,Safety Hazard
+OD10,2024-03-11,2024-03-04,39.0,max. heating temp. r,Heating System Issue,2024-03-04,39.0,max. heating temp. r,Heating System Issue
+OD10,2024-03-18,2024-03-11,29.0,door,Door Opened,2024-03-11,39.0,max. heating temp. r,Heating System Issue
+OD10,2024-03-25,2024-03-11,29.0,door,Door Opened,2024-03-11,39.0,max. heating temp. r,Heating System Issue
+OD10,2024-04-15,2024-04-08,29.0,door,Door Opened,2024-04-08,21.0,drops per volume,Process Issue
+OD10,2024-04-22,2024-04-08,29.0,door,Door Opened,2024-04-08,21.0,drops per volume,Process Issue
+OD10,2024-04-29,2024-04-08,29.0,door,Door Opened,2024-04-08,21.0,drops per volume,Process Issue
+OD10,2024-05-20,2024-04-29,29.0,door,Door Opened,2024-04-29,77.0,no error message,Unknown Issue
+OD10,2024-10-14,2024-09-23,39.0,max. heating temp. r,Heating System Issue,2024-09-23,77.0,no error message,Unknown Issue
+OD10,2024-10-21,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-10-28,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-11-04,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-11-11,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-11-18,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-11-25,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-12-02,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-12-09,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-12-16,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-12-23,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2024-12-30,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-01-06,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-01-13,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-01-20,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-01-27,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-02-03,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-02-10,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-02-17,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-02-24,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-03-03,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-03-10,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-03-17,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD10,2025-03-24,2024-10-14,77.0,no error message,Unknown Issue,2024-10-14,76.0,no error message,Unknown Issue
+OD11,2024-07-22,2024-07-15,0.0,fire,Safety Hazard,2024-07-15,21.0,drops per volume,Process Issue
+OD11,2024-07-29,2024-07-22,29.0,door,Door Opened,2024-07-22,26.0,initial boiling poin,Calibration Issue
+OD11,2024-08-05,2024-07-22,29.0,door,Door Opened,2024-07-22,26.0,initial boiling poin,Calibration Issue
+OD11,2024-08-12,2024-08-05,36.0,calibration is out o,Calibration Issue,2024-08-05,29.0,door,Door Opened
+OD11,2024-08-19,2024-08-12,41.0,condenser temperatur,Cooling System Issue,2024-08-12,0.0,fire,Safety Hazard
+OD11,2024-08-26,2024-08-19,41.0,condenser temperatur,Cooling System Issue,2024-08-19,30.0,distillation rate,Calibration Issue
+OD11,2024-09-02,2024-08-26,29.0,door,Door Opened,2024-08-26,76.0,no error message,Unknown Issue
+OD11,2024-09-09,2024-09-02,39.0,max. heating temp. r,Heating System Issue,2024-09-02,76.0,no error message,Unknown Issue
+OD11,2024-09-16,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-09-23,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-09-30,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-10-07,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-10-14,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-10-21,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-10-28,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-11-04,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-11-11,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-11-18,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-11-25,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-12-02,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-12-09,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-12-16,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-12-23,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2024-12-30,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-01-06,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-01-13,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-01-20,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-01-27,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-02-03,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-02-10,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-02-17,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-02-24,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-03-03,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-03-10,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-03-17,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD11,2025-03-24,2024-09-09,39.0,max. heating temp. r,Heating System Issue,2024-09-09,0.0,fire,Safety Hazard
+OD12,2023-10-16,2023-10-02,21.0,gotas por volume,Process Issue,2023-10-02,21.0,gotas por volume,Process Issue
+OD12,2023-11-20,2023-11-06,39.0,max. heating temp. r,Heating System Issue,2023-11-06,30.0,taxa de destilação,Calibration Issue
+OD12,2023-11-27,2023-11-06,39.0,max. heating temp. r,Heating System Issue,2023-11-06,30.0,taxa de destilação,Calibration Issue
+OD12,2024-03-04,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-12,21.0,gotas por volume,Process Issue
+OD12,2024-03-11,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-12,21.0,gotas por volume,Process Issue
+OD12,2024-03-18,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-12,21.0,gotas por volume,Process Issue
+OD12,2024-03-25,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-12,21.0,gotas por volume,Process Issue
+OD12,2024-04-01,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-12,21.0,gotas por volume,Process Issue
+OD12,2024-07-22,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-07-29,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-08-05,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-08-12,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-08-19,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-08-26,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-09-02,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-09-09,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-09-16,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-09-23,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-09-30,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-10-07,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-10-14,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-10-21,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-10-28,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-11-04,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-11-11,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-11-18,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-11-25,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-12-02,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-12-09,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-12-16,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-12-23,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2024-12-30,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-01-06,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-01-13,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-01-20,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-01-27,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-02-03,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-02-10,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-02-17,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-02-24,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-03-03,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-03-10,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-03-17,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD12,2025-03-24,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,21.0,gotas por volume,Process Issue
+OD13,2024-02-12,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2024-02-19,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2024-03-04,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2024-03-11,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2024-03-18,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2024-03-25,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2024-04-15,2024-04-08,77.0,no error message,Unknown Issue,2024-04-08,21.0,drops per volume,Process Issue
+OD13,2024-04-22,2024-04-08,77.0,no error message,Unknown Issue,2024-04-08,21.0,drops per volume,Process Issue
+OD13,2024-04-29,2024-04-08,77.0,no error message,Unknown Issue,2024-04-08,21.0,drops per volume,Process Issue
+OD13,2024-05-06,2024-04-08,77.0,no error message,Unknown Issue,2024-04-08,21.0,drops per volume,Process Issue
+OD13,2024-05-13,2024-04-08,77.0,no error message,Unknown Issue,2024-04-08,21.0,drops per volume,Process Issue
+OD13,2024-05-20,2024-04-08,77.0,no error message,Unknown Issue,2024-04-08,21.0,drops per volume,Process Issue
+OD13,2025-02-03,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-02-10,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-02-17,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-02-24,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-03-03,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-03-10,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-03-17,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD13,2025-03-24,2024-11-25,29.0,door,Door Opened,2024-11-25,40.0,max. heat. temp. rea,Heating System Issue
+OD14,2023-10-23,2023-10-16,39.0,max. heating temp. r,Heating System Issue,2023-10-16,21.0,gotas por volume,Process Issue
+OD14,2023-10-30,2023-10-16,39.0,max. heating temp. r,Heating System Issue,2023-10-16,21.0,gotas por volume,Process Issue
+OD14,2023-11-06,2023-10-16,39.0,max. heating temp. r,Heating System Issue,2023-10-16,21.0,gotas por volume,Process Issue
+OD14,2023-11-13,2023-10-16,39.0,max. heating temp. r,Heating System Issue,2023-10-16,21.0,gotas por volume,Process Issue
+OD14,2023-11-20,2023-10-16,39.0,max. heating temp. r,Heating System Issue,2023-10-16,21.0,gotas por volume,Process Issue
+OD14,2023-11-27,2023-10-16,39.0,max. heating temp. r,Heating System Issue,2023-10-16,21.0,gotas por volume,Process Issue
+OD14,2023-12-11,2023-12-04,30.0,taxa de destilação,Calibration Issue,2023-12-04,39.0,max. heating temp. r,Heating System Issue
+OD14,2024-02-26,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-12,39.0,max. heating temp. r,Heating System Issue
+OD14,2024-07-22,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-07-29,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-08-05,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-08-12,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-08-19,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-08-26,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-09-02,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-09-09,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-09-16,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-09-23,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-09-30,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-10-07,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-10-14,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-10-21,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-10-28,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-11-04,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-11-11,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-11-18,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-11-25,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-12-02,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-12-09,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-12-16,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-12-23,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2024-12-30,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-01-06,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-01-13,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-01-20,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-01-27,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-02-03,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-02-10,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-02-17,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-02-24,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-03-03,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-03-10,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-03-17,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD14,2025-03-24,2024-07-15,0.0,fogo,Safety Hazard,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue
+OD15,2023-10-30,2023-10-23,11.0,vapor temperature,Process Issue,2023-10-23,77.0,no error message,Unknown Issue
+OD15,2023-11-06,2023-10-23,11.0,vapor temperature,Process Issue,2023-10-23,77.0,no error message,Unknown Issue
+OD15,2023-11-13,2023-11-06,33.0,check the heating bl,Heating System Issue,2023-11-06,40.0,max. heat. temp. rea,Heating System Issue
+OD15,2023-11-20,2023-11-13,33.0,check the heating bl,Heating System Issue,2023-11-13,40.0,max. heat. temp. rea,Heating System Issue
+OD15,2023-11-27,2023-11-13,33.0,check the heating bl,Heating System Issue,2023-11-13,40.0,max. heat. temp. rea,Heating System Issue
+OD15,2023-12-04,2023-11-27,29.0,door,Door Opened,2023-11-27,34.0,receiver seems not t,Process Issue
+OD15,2023-12-11,2023-12-04,77.0,no error message,Unknown Issue,2023-12-04,40.0,max. heat. temp. rea,Heating System Issue
+OD15,2023-12-18,2023-12-11,34.0,receiver seems not t,Process Issue,2023-12-11,39.0,max. heating temp. r,Heating System Issue
+OD15,2023-12-25,2023-12-18,29.0,door,Door Opened,2023-12-18,33.0,check the heating bl,Heating System Issue
+OD15,2024-01-01,2023-12-18,29.0,door,Door Opened,2023-12-18,33.0,check the heating bl,Heating System Issue
+OD15,2024-01-08,2024-01-01,33.0,check the heating bl,Heating System Issue,2024-01-01,0.0,fire,Safety Hazard
+OD15,2024-01-15,2024-01-08,77.0,no error message,Unknown Issue,2024-01-08,33.0,check the heating bl,Heating System Issue
+OD15,2024-01-22,2024-01-15,40.0,max. heat. temp. rea,Heating System Issue,2024-01-15,34.0,receiver seems not t,Process Issue
+OD15,2024-01-29,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-02-05,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-02-12,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-02-19,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-02-26,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-03-04,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-03-11,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-03-18,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-03-25,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-04-01,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue,2024-01-22,24.0,follower,Sensor Issue
+OD15,2024-04-08,2024-04-01,77.0,no error message,Unknown Issue,2024-04-01,34.0,receiver seems not t,Process Issue
+OD15,2024-04-15,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-04-22,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-04-29,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-05-06,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-05-13,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-05-20,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-05-27,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-06-03,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD15,2024-06-10,2024-06-03,39.0,max. heating temp. r,Heating System Issue,2024-06-03,34.0,receiver seems not t,Process Issue
+OD15,2024-06-17,2024-06-10,24.0,follower,Sensor Issue,2024-06-10,23.0,follower2 light barr,Sensor Issue
+OD15,2024-06-24,2024-06-10,24.0,follower,Sensor Issue,2024-06-10,23.0,follower2 light barr,Sensor Issue
+OD15,2024-07-01,2024-06-24,42.0,receiver temperature,Sensor Issue,2024-06-24,29.0,door,Door Opened
+OD15,2024-07-08,2024-07-01,77.0,no error message,Unknown Issue,2024-07-01,42.0,receiver temperature,Sensor Issue
+OD15,2024-07-15,2024-07-01,77.0,no error message,Unknown Issue,2024-07-01,42.0,receiver temperature,Sensor Issue
+OD15,2024-07-22,2024-07-15,33.0,check the heating bl,Heating System Issue,2024-07-15,77.0,no error message,Unknown Issue
+OD15,2024-07-29,2024-07-22,29.0,door,Door Opened,2024-07-22,77.0,no error message,Unknown Issue
+OD15,2024-08-05,2024-07-22,29.0,door,Door Opened,2024-07-22,77.0,no error message,Unknown Issue
+OD15,2024-08-12,2024-08-05,77.0,no error message,Unknown Issue,2024-08-05,29.0,door,Door Opened
+OD15,2024-08-19,2024-08-05,77.0,no error message,Unknown Issue,2024-08-05,29.0,door,Door Opened
+OD15,2024-08-26,2024-08-19,77.0,no error message,Unknown Issue,2024-08-19,29.0,door,Door Opened
+OD15,2024-09-02,2024-08-19,77.0,no error message,Unknown Issue,2024-08-19,29.0,door,Door Opened
+OD15,2024-09-09,2024-08-19,77.0,no error message,Unknown Issue,2024-08-19,29.0,door,Door Opened
+OD15,2024-09-16,2024-09-09,77.0,no error message,Unknown Issue,2024-09-09,39.0,max. heating temp. r,Heating System Issue
+OD15,2024-09-23,2024-09-16,39.0,max. heating temp. r,Heating System Issue,2024-09-16,29.0,door,Door Opened
+OD15,2024-09-30,2024-09-16,39.0,max. heating temp. r,Heating System Issue,2024-09-16,29.0,door,Door Opened
+OD15,2024-10-07,2024-09-30,77.0,no error message,Unknown Issue,2024-09-30,71.0,condensertemp out of,Cooling System Issue
+OD15,2024-10-14,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-10-21,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-10-28,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-11-04,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-11-11,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-11-18,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-11-25,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-12-02,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-12-09,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-12-16,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-12-23,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2024-12-30,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-01-06,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-01-13,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-01-20,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-01-27,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-02-03,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-02-10,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-02-17,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-02-24,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-03-03,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-03-10,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-03-17,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD15,2025-03-24,2024-10-07,26.0,initial boiling poin,Calibration Issue,2024-10-07,18.0,exchanger temperatur,Heating System Issue
+OD16,2023-11-06,2023-10-30,77.0,no error message,Unknown Issue,2023-10-30,76.0,no error message,Unknown Issue
+OD16,2023-11-13,2023-11-06,41.0,condenser temperatur,Cooling System Issue,2023-11-06,0.0,fire,Safety Hazard
+OD16,2023-11-20,2023-11-13,11.0,vapor temperature,Process Issue,2023-11-13,30.0,distillation rate,Calibration Issue
+OD16,2023-11-27,2023-11-13,11.0,vapor temperature,Process Issue,2023-11-13,30.0,distillation rate,Calibration Issue
+OD16,2023-12-04,2023-11-27,77.0,no error message,Unknown Issue,2023-11-27,76.0,no error message,Unknown Issue
+OD16,2023-12-11,2023-11-27,77.0,no error message,Unknown Issue,2023-11-27,76.0,no error message,Unknown Issue
+OD16,2023-12-18,2023-11-27,77.0,no error message,Unknown Issue,2023-11-27,76.0,no error message,Unknown Issue
+OD16,2023-12-25,2023-11-27,77.0,no error message,Unknown Issue,2023-11-27,76.0,no error message,Unknown Issue
+OD16,2024-01-01,2023-11-27,77.0,no error message,Unknown Issue,2023-11-27,76.0,no error message,Unknown Issue
+OD16,2024-01-08,2023-11-27,77.0,no error message,Unknown Issue,2023-11-27,76.0,no error message,Unknown Issue
+OD16,2024-01-15,2024-01-08,30.0,distillation rate,Calibration Issue,2024-01-08,29.0,door,Door Opened
+OD16,2024-01-22,2024-01-08,30.0,distillation rate,Calibration Issue,2024-01-08,29.0,door,Door Opened
+OD16,2024-01-29,2024-01-22,76.0,no error message,Unknown Issue,2024-01-22,26.0,initial boiling poin,Calibration Issue
+OD16,2024-02-05,2024-01-29,26.0,initial boiling poin,Calibration Issue,2024-01-29,39.0,max. heating temp. r,Heating System Issue
+OD16,2024-02-12,2024-02-05,34.0,receiver seems not t,Process Issue,2024-02-05,21.0,drops per volume,Process Issue
+OD16,2024-02-19,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-02-26,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-03-04,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-03-11,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-03-18,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-03-25,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-04-01,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-04-08,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-04-15,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-04-22,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-04-29,2024-02-12,34.0,receiver seems not t,Process Issue,2024-02-12,30.0,distillation rate,Calibration Issue
+OD16,2024-05-20,2024-05-13,11.0,vapor temperature,Process Issue,2024-05-13,77.0,no error message,Unknown Issue
+OD16,2024-06-03,2024-05-27,39.0,max. heating temp. r,Heating System Issue,2024-05-27,0.0,fire,Safety Hazard
+OD16,2024-09-16,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-09-23,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-09-30,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-10-07,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-10-14,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-10-21,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-10-28,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-11-04,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-11-11,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-11-18,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-11-25,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-12-02,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-12-09,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-12-16,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-12-23,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2024-12-30,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-01-06,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-01-13,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-01-20,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-01-27,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-02-03,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-02-10,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-02-17,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-02-24,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-03-03,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-03-10,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-03-17,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD16,2025-03-24,2024-08-12,39.0,max. heating temp. r,Heating System Issue,2024-08-12,76.0,no error message,Unknown Issue
+OD17,2023-09-25,2023-09-18,18.0,trocador de calor,Cooling System Issue,2023-09-18,21.0,gotas por volume,Process Issue
+OD17,2024-02-12,2024-02-05,21.0,gotas por volume,Process Issue,2024-02-05,39.0,max. heating temp. r,Heating System Issue
+OD17,2024-02-19,2024-02-12,39.0,max. heating temp. r,Heating System Issue,2024-02-12,21.0,gotas por volume,Process Issue
+OD17,2024-03-04,2024-02-19,21.0,gotas por volume,Process Issue,2024-02-19,39.0,max. heating temp. r,Heating System Issue
+OD17,2024-03-11,2024-03-04,34.0,proveta não está vaz,Process Issue,2024-03-04,34.0,proveta não está vaz,Process Issue
+OD17,2024-03-18,2024-03-11,29.0,porta,Door Opened,2024-03-11,29.0,porta,Door Opened
+OD17,2024-03-25,2024-03-18,33.0,cheque a posição do,Process Issue,2024-03-18,0.0,fogo,Safety Hazard
+OD17,2024-04-15,2024-04-01,39.0,max. heating temp. r,Heating System Issue,2024-04-01,39.0,max. heating temp. r,Heating System Issue
+OD17,2024-04-22,2024-04-15,26.0,ponto inicial de ebu,Calibration Issue,2024-04-15,26.0,ponto inicial de ebu,Calibration Issue
+OD17,2024-04-29,2024-04-22,76.0,no error message,Unknown Issue,2024-04-22,76.0,no error message,Unknown Issue
+OD17,2024-05-06,2024-04-29,29.0,porta,Door Opened,2024-04-29,21.0,gotas por volume,Process Issue
+OD17,2024-05-13,2024-05-06,30.0,taxa de destilação,Calibration Issue,2024-05-06,21.0,gotas por volume,Process Issue
+OD17,2024-05-20,2024-05-13,0.0,fogo,Safety Hazard,2024-05-13,30.0,taxa de destilação,Calibration Issue
+OD17,2024-07-15,2024-07-08,0.0,fogo,Safety Hazard,2024-07-08,39.0,max. heating temp. r,Heating System Issue
+OD17,2024-07-22,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-07-29,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-08-05,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-08-12,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-08-19,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-08-26,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-09-02,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-09-09,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-09-16,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-09-23,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-09-30,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-10-07,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-10-14,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-10-21,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-10-28,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-11-04,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-11-11,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-11-18,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-11-25,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-12-02,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-12-09,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-12-16,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-12-23,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2024-12-30,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-01-06,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-01-13,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-01-20,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-01-27,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-02-03,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-02-10,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-02-17,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-02-24,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-03-03,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-03-10,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-03-17,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD17,2025-03-24,2024-07-15,26.0,ponto inicial de ebu,Calibration Issue,2024-07-15,30.0,taxa de destilação,Calibration Issue
+OD18,2024-01-29,2024-01-22,24.0,follower,Sensor Issue,2024-01-22,40.0,max. heat. temp. rea,Heating System Issue
+OD18,2024-02-05,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD18,2024-02-12,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD18,2024-02-19,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD18,2024-02-26,2024-01-29,36.0,calibration is out o,Calibration Issue,2024-01-29,40.0,max. heat. temp. rea,Heating System Issue
+OD18,2024-03-04,2024-02-26,77.0,no error message,Unknown Issue,2024-02-26,33.0,check the heating bl,Heating System Issue
+OD18,2024-03-11,2024-02-26,77.0,no error message,Unknown Issue,2024-02-26,33.0,check the heating bl,Heating System Issue
+OD18,2024-03-18,2024-02-26,77.0,no error message,Unknown Issue,2024-02-26,33.0,check the heating bl,Heating System Issue
+OD18,2024-03-25,2024-02-26,77.0,no error message,Unknown Issue,2024-02-26,33.0,check the heating bl,Heating System Issue
+OD18,2024-04-15,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD18,2024-04-22,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD18,2024-04-29,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD18,2024-05-06,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD18,2024-05-13,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD18,2024-05-20,2024-04-08,21.0,drops per volume,Process Issue,2024-04-08,77.0,no error message,Unknown Issue
+OD18,2024-10-14,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-10-21,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-10-28,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-11-04,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-11-11,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-11-18,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-11-25,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-12-02,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-12-09,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-12-16,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-12-23,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2024-12-30,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-01-06,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-01-13,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-01-20,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-01-27,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-02-03,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-02-10,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-02-17,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-02-24,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-03-03,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-03-10,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-03-17,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD18,2025-03-24,2024-07-08,42.0,receiver temperature,Sensor Issue,2024-07-08,77.0,no error message,Unknown Issue
+OD19,2024-11-11,2024-11-04,21.0,drops per volume,Process Issue,2024-11-04,30.0,distillation rate,Calibration Issue
+OD19,2024-11-18,2024-11-04,21.0,drops per volume,Process Issue,2024-11-04,30.0,distillation rate,Calibration Issue
+OD19,2024-11-25,2024-11-04,21.0,drops per volume,Process Issue,2024-11-04,30.0,distillation rate,Calibration Issue
+OD19,2024-12-02,2024-11-04,21.0,drops per volume,Process Issue,2024-11-04,30.0,distillation rate,Calibration Issue
+OD19,2024-12-09,2024-11-04,21.0,drops per volume,Process Issue,2024-11-04,30.0,distillation rate,Calibration Issue
+OD19,2024-12-16,2024-11-04,21.0,drops per volume,Process Issue,2024-11-04,30.0,distillation rate,Calibration Issue
+OD19,2024-12-23,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2024-12-30,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-01-06,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-01-13,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-01-20,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-01-27,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-02-03,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-02-10,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-02-17,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-02-24,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-03-03,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-03-10,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-03-17,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OD19,2025-03-24,2024-12-16,21.0,drops per volume,Process Issue,2024-11-04,21.0,drops per volume,Process Issue
+OF01,2023-12-18,2023-11-27,No error code,connected sensors,Sensor Issue,2023-11-27,92.0,flash outside dipping,Safety Hazard
+OF01,2023-12-25,2023-11-27,No error code,connected sensors,Sensor Issue,2023-11-27,92.0,flash outside dipping,Safety Hazard
+OF01,2024-01-01,2023-11-27,No error code,connected sensors,Sensor Issue,2023-11-27,92.0,flash outside dipping,Safety Hazard
+OF01,2024-03-04,2024-02-12,92.0,flash outside dipping,Safety Hazard,2024-02-05,92.0,flash outside dipping,Safety Hazard
+OF01,2024-03-11,2024-02-12,92.0,flash outside dipping,Safety Hazard,2024-02-05,92.0,flash outside dipping,Safety Hazard
+OF01,2024-03-18,2024-02-12,92.0,flash outside dipping,Safety Hazard,2024-02-05,92.0,flash outside dipping,Safety Hazard
+OF01,2024-03-25,2024-02-12,92.0,flash outside dipping,Safety Hazard,2024-02-05,92.0,flash outside dipping,Safety Hazard
+OF01,2024-04-01,2024-02-12,92.0,flash outside dipping,Safety Hazard,2024-02-05,92.0,flash outside dipping,Safety Hazard
+OF01,2024-04-08,2024-02-12,92.0,flash outside dipping,Safety Hazard,2024-02-05,92.0,flash outside dipping,Safety Hazard
+OF02,2023-10-02,2023-09-25,No error code,flame outside of the cup,Safety Hazard,,,,
+OF02,2023-10-09,2023-10-02,No error code,shutter motor,Door Opened,2023-09-25,No error code,flame outside of the cup,Safety Hazard
+OF02,2023-10-16,2023-10-09,No error code,flame outside of the cup,Safety Hazard,2023-10-02,No error code,shutter motor,Door Opened
+OF02,2023-10-23,2023-10-16,No error code,flame outside of the cup,Safety Hazard,2023-10-16,No error code,flame outside of the cup,Safety Hazard
+OF02,2023-10-30,2023-10-23,No error code,flame outside of the cup,Safety Hazard,2023-10-23,No error code,flame outside of the cup,Safety Hazard
+OF02,2023-11-06,2023-10-30,No error code,flame outside of the cup,Safety Hazard,2023-10-30,No error code,flame outside of the cup,Safety Hazard
+OF02,2023-11-13,2023-11-06,92.0,flash outside dipping,Safety Hazard,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF02,2023-11-20,2023-11-06,92.0,flash outside dipping,Safety Hazard,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF02,2023-12-18,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2023-12-25,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-01-01,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-01-08,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-01-29,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-02-05,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-02-12,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-02-19,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-02-26,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-03-04,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-03-11,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-03-18,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-03-25,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-04-01,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-04-08,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-04-15,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-04-22,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-04-29,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-05-06,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-05-13,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-05-20,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-05-27,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-06-03,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-06-10,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-06-17,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-06-24,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-07-01,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-07-08,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-07-15,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-07-22,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-07-29,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF02,2024-08-05,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-08-12,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-08-19,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-08-26,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-09-02,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-09-09,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-09-16,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-09-23,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-09-30,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-10-07,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-10-14,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-10-21,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-10-28,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-11-04,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-11-11,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-11-18,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-11-25,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-12-02,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-12-09,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-12-16,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-12-23,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2024-12-30,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-01-06,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-01-13,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-01-20,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-01-27,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-02-03,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-02-10,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-02-17,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-02-24,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-03-03,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-03-10,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-03-17,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF02,2025-03-24,2024-07-29,No error code,cup cover not installed,Door Opened,2024-07-29,No error code,cup cover not installed,Door Opened
+OF03,2023-06-19,2023-06-12,No error code,shutter motor,Door Opened,2023-05-29,No error code,connected sensors,Sensor Issue
+OF03,2023-08-28,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-09-04,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-09-11,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-09-18,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-09-25,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-10-02,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-10-09,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-10-16,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-10-23,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-10-30,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-11-06,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-11-13,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-11-20,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-11-27,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-12-04,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-12-11,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-12-18,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2023-12-25,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-01-01,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-01-08,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-01-15,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-01-22,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-01-29,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-02-05,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-02-12,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-02-19,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-02-26,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-03-04,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-03-11,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-03-18,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-03-25,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-04-01,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-04-08,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-04-15,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-04-22,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-04-29,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-05-06,2023-07-31,85.0,cup cover not installed,Door Opened,2023-07-31,No error code,connected sensors,Sensor Issue
+OF03,2024-06-24,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-07-01,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-07-08,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-07-15,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-07-22,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-07-29,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-08-05,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-08-12,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-08-19,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-08-26,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-09-02,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-09-09,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-09-16,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-09-23,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-09-30,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-10-07,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-10-14,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-10-21,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-10-28,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-11-04,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-11-11,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-11-18,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-11-25,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-12-02,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-12-09,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-12-16,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-12-23,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2024-12-30,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-01-06,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-01-13,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-01-20,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-01-27,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-02-03,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-02-10,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-02-17,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-02-24,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-03-03,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-03-10,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-03-17,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF03,2025-03-24,2024-06-17,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF04,2023-06-19,2023-05-29,No error code,stirrer not in place,Door Opened,2023-05-22,No error code,stirrer not in place,Door Opened
+OF04,2024-03-11,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-03-18,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-03-25,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-04-01,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-04-08,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-04-15,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-04-22,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-04-29,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-05-06,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-05-13,2023-07-03,No error code,stirrer not in place,Door Opened,2023-05-29,No error code,stirrer not in place,Door Opened
+OF04,2024-05-20,2024-05-13,No error code,stirrer not in place,Door Opened,2024-05-13,No error code,stirrer not in place,Door Opened
+OF04,2024-05-27,2024-05-13,No error code,stirrer not in place,Door Opened,2024-05-13,No error code,stirrer not in place,Door Opened
+OF04,2024-06-03,2024-05-13,No error code,stirrer not in place,Door Opened,2024-05-13,No error code,stirrer not in place,Door Opened
+OF04,2024-06-10,2024-06-03,No error code,stirrer not in place,Door Opened,2024-05-13,No error code,stirrer not in place,Door Opened
+OF04,2024-06-17,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-06-24,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-07-01,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-07-08,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-07-15,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-07-22,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-09-23,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-09-30,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-10-07,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-10-14,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-10-21,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-10-28,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-11-04,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-11-11,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-11-18,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-11-25,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-12-02,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-12-09,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-12-16,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-12-23,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2024-12-30,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-01-06,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-01-13,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-01-20,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-01-27,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-02-03,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-02-10,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-02-17,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-02-24,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-03-03,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-03-10,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-03-17,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF04,2025-03-24,2024-06-10,No error code,stirrer not in place,Door Opened,2024-06-03,No error code,stirrer not in place,Door Opened
+OF05,2024-03-25,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-04-01,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-04-08,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-04-15,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-04-22,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-04-29,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-05-06,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-05-13,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-05-20,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-05-27,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-06-03,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire,2024-02-12,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-06-10,2024-06-03,No error code,shutter motor,Door Opened,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-06-17,2024-06-03,No error code,shutter motor,Door Opened,2024-03-04,No error code,gas ignition test failed,Ignition Test Failire
+OF05,2024-07-01,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-07-08,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-07-15,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-07-22,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-07-29,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-08-05,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-08-12,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-08-19,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-08-26,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-09-02,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-09-09,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-09-16,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-09-23,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-09-30,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-10-07,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-10-14,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-10-21,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-10-28,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-11-04,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-11-11,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-11-18,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-11-25,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-12-02,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-12-09,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-12-16,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-12-23,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2024-12-30,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-01-06,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-01-13,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-01-20,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-01-27,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-02-03,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-02-10,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-02-17,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-02-24,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-03-03,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-03-10,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-03-17,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF05,2025-03-24,2024-06-24,No error code,shutter motor,Door Opened,2024-06-17,No error code,shutter motor,Door Opened
+OF07,2024-03-25,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire,,,,
+OF07,2024-04-01,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire,,,,
+OF07,2024-04-08,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire,,,,
+OF07,2024-04-15,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire,,,,
+OF07,2024-04-22,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-04-29,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-05-06,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-05-13,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-05-20,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-05-27,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-06-03,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-06-10,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-06-17,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-06-24,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-07-01,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-07-08,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-07-15,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-07-22,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-07-29,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-08-05,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-08-12,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-08-19,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-08-26,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-09-02,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-09-09,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-09-16,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-09-23,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-09-30,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-10-07,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-10-14,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-10-21,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-10-28,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-11-04,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-11-11,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-11-18,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-11-25,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-12-02,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-12-09,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-12-16,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-12-23,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2024-12-30,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-01-06,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-01-13,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-01-20,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-01-27,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-02-03,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-02-10,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-02-17,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-02-24,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-03-03,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-03-10,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-03-17,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF07,2025-03-24,2024-04-15,No error code,shutter blocked,Door Opened,2024-03-18,88.0,electric ign. test failed,Ignition Test Failire
+OF08,2023-10-02,2023-09-25,No error code,flame outside of the cup,Safety Hazard,,,,
+OF08,2023-10-09,2023-10-02,No error code,shutter motor,Door Opened,2023-09-25,No error code,flame outside of the cup,Safety Hazard
+OF08,2023-10-16,2023-10-09,No error code,flame outside of the cup,Safety Hazard,2023-10-02,No error code,shutter motor,Door Opened
+OF08,2023-10-23,2023-10-16,No error code,flame outside of the cup,Safety Hazard,2023-10-16,No error code,flame outside of the cup,Safety Hazard
+OF08,2023-10-30,2023-10-23,No error code,flame outside of the cup,Safety Hazard,2023-10-23,No error code,flame outside of the cup,Safety Hazard
+OF08,2023-11-06,2023-10-30,No error code,flame outside of the cup,Safety Hazard,2023-10-30,No error code,flame outside of the cup,Safety Hazard
+OF08,2023-11-13,2023-11-06,86.0,electric igniter failed,Ignition Test Failire,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF08,2023-11-20,2023-11-06,86.0,electric igniter failed,Ignition Test Failire,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF08,2023-11-27,2023-11-06,86.0,electric igniter failed,Ignition Test Failire,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF08,2023-12-04,2023-11-06,86.0,electric igniter failed,Ignition Test Failire,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF08,2023-12-11,2023-11-06,86.0,electric igniter failed,Ignition Test Failire,2023-11-06,86.0,electric igniter failed,Ignition Test Failire
+OF08,2023-12-18,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2023-12-25,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-01-01,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-01-08,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-01-15,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-01-22,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-01-29,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-02-05,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-02-12,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-02-19,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-02-26,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-03-04,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-03-11,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-03-18,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-03-25,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-04-01,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-04-08,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-04-15,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-04-22,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-04-29,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-05-06,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-06-24,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-07-01,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-07-08,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-07-15,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-07-22,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-07-29,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-08-05,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-08-12,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-08-19,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-08-26,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-09-02,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-09-09,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-09-16,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-09-23,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-09-30,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-10-07,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-10-14,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-10-21,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-10-28,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-11-04,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-11-11,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-11-18,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-11-25,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-12-02,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-12-09,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-12-16,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-12-23,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2024-12-30,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-01-06,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-01-13,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-01-20,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-01-27,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-02-03,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-02-10,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-02-17,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-02-24,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-03-03,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-03-10,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-03-17,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF08,2025-03-24,2023-12-11,92.0,flash outside dipping,Safety Hazard,2023-12-11,92.0,flash outside dipping,Safety Hazard
+OF09,2023-12-18,2023-12-04,86.0,electric igniter failed,Ignition Test Failire,2023-12-04,86.0,electric igniter failed,Ignition Test Failire
+OF09,2023-12-25,2023-12-04,86.0,electric igniter failed,Ignition Test Failire,2023-12-04,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-01-01,2023-12-04,86.0,electric igniter failed,Ignition Test Failire,2023-12-04,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-01-08,2023-12-04,86.0,electric igniter failed,Ignition Test Failire,2023-12-04,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-03-04,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-03-11,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-03-18,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-03-25,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-04-01,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-04-08,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-04-15,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-04-22,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-04-29,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-05-06,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-05-13,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-05-20,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-06-03,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-06-10,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-06-17,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-06-24,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-07-01,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-07-08,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-07-15,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-07-22,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-07-29,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-08-05,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-08-12,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-08-19,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-08-26,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-09-02,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-09-09,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-09-16,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-09-23,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-09-30,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-10-07,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-10-14,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-10-21,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-10-28,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-11-04,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-11-11,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-11-18,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-11-25,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-12-02,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-12-09,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-12-16,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-12-23,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2024-12-30,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-01-06,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-01-13,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-01-20,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-01-27,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-02-03,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-02-10,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-02-17,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-02-24,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-03-03,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-03-10,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-03-17,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
+OF09,2025-03-24,2024-02-19,No error code,lift arm error,Door Opened,2024-01-22,86.0,electric igniter failed,Ignition Test Failire
